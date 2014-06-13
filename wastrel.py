@@ -32,7 +32,7 @@ def startevent(project, dbloc, debug):
    if debug:
       print("Starting event in project", project)
    start = int(time.time())
-   why = input("Press give a reason and then return when you've finished: ")
+   why = input("Say what you've been doing and press return when you've finished: ")
    stop = int(time.time())
    db = sqlite3.connect(dbloc)
 
