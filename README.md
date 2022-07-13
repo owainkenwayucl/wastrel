@@ -10,11 +10,11 @@ BSD-style license (see LICENSE.txt)
 
 ## Installation
 
-Wastrel needs a Python 3 interpreter called "python3" in your $PATH.
+Wastrel needs a Python 3 interpreter called `python3` in your $PATH.
 
-To install wastrel.py as ~/bin/wastrel, "make install"
+To install wastrel.py as `~/bin/wastrel`, "`make install`"
 
-To wipe the database (~/.wastrel.db), "make killdb"
+To wipe the database (`~/.wastrel.db`), "`make killdb`"
 
 ## Usage
 
